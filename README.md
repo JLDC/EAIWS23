@@ -48,6 +48,6 @@ The data can be downloaded here:
 | `WS` | Wind speed | `m/s` |
 | `Xylene` | Concentration of Xylene in the air | `ug/m3` |
 
-The goal is to predict `PM2.5_target`, the one hour ahead PM2.5 concentration, on the test set. You can use any feature of the data, you are also allowed to use external data to enrich your data set.
+The goal is to predict `PM2.5_target`, the one-hour ahead PM2.5 concentration, on the test set.
 
 This data is a modification of publicly available data. Please do not use the original data set for your solution.
