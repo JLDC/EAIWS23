@@ -4,8 +4,8 @@ Emergent Algorithmic Intelligence Winter School 2023
 ## Predictive Challenge
 
 The data can be downloaded here:
-+ [train.pkl](jldc.ch/uploads/train.pkl)
-+ [test.pkl](jldc.ch/uploads/test.pkl)
++ [train.pkl](https://jldc.ch/uploads/train.pkl)
++ [test.pkl](https://jldc.ch/uploads/test.pkl)
 
 ### Variables
 
