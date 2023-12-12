@@ -43,7 +43,7 @@ The data can be downloaded here:
 | `SR` | Solar radiation | `W/m2` |
 | `THC` | Total hydrocarbons | `ug/m3` |
 | `Toluene` | Concentration of Toluene in the air | `ug/m3` |
-| `VWS` | Wind speed | `m/s` |
+| `VWS` | Vertical Wind speed | `m/s` |
 | `WD` | Wind direction | `degree` |
 | `WS` | Wind speed | `m/s` |
 | `Xylene` | Concentration of Xylene in the air | `ug/m3` |
