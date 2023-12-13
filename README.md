@@ -6,6 +6,7 @@ Emergent Algorithmic Intelligence Winter School 2023
 The data can be downloaded here:
 + [train.pkl](https://jldc.ch/uploads/train.pkl)
 + [test.pkl](https://jldc.ch/uploads/test.pkl)
++ [test_full.pkl](https://jldc.ch/uploads/test_full.pkl) (Test with true output)
 
 ### Submission
 The pickle file [data/prediction_example.pkl](data/prediction_example.pkl) contains an example of a valid submission. Please provide your submission by mail in the same format. A single column with the same MultiIndex as the example file. The column name does not matter.
